@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Fiesta de Samain - Colegio</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <h1>🎃 Fiesta de Samain 🎃</h1>
+        <p>El origen celta de Halloween llega a nuestro colegio</p>
+    </header>
+    <main>
+        <section>
+            <h2>¿Qué es Samain?</h2>
+            <p>Samain es una festividad de origen celta que marca el fin de la cosecha y el inicio del "año nuevo celta". Se celebra la noche del 31 de octubre.</p>
+        </section>
+        <section>
+            <h2>Actividades en el Colegio</h2>
+            <ul>
+                <li>Cuenta cuentos de mitología irlandesa.</li>
+                <li>Taller de tallado de calabazas.</li>
+                <li>Merienda de otoño.</li>
+            </ul>
+        </section>
+    </main>
+    <footer>
+        <p>© 2026 Colegio. Todos los derechos reservados.</p>
+    </footer>
+</body>
+</html>
